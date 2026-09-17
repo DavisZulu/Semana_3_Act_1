@@ -1,5 +1,11 @@
 # Semana 3 — Encapsulamiento, Herencia y Polimorfismo
 
+**Proyecto:** Quantum Core — Sistema de gestión de transacciones
+**Autor:** Deibis Zuluaga Baena
+**Núcleo:** Fundamentos de Software · CEIPA Business School
+**Docente:** Simón Peláez Loaiza
+**Repositorio:** https://github.com/DavisZulu/Semana_3_Act_1
+
 ## Descripción
 
 En esta actividad se tomó como punto de partida el archivo
